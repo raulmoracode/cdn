@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/manifest.json",
+      "permanent": true
+    }
+  ]
+}
