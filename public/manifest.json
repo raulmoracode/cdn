@@ -53,9 +53,9 @@
     "favicon": {
       "assets": [
         {
-          "size": 48,
+          "size": 16,
           "format": "ico",
-          "url": "https://cdn.raulmoracode.com/icons/favicon.svg"
+          "url": "https://cdn.raulmoracode.com/icons/favicon.ico"
         }
       ]
     }
