@@ -56,6 +56,11 @@
           "size": 16,
           "format": "ico",
           "url": "https://cdn.raulmoracode.com/icons/favicon.ico"
+        },
+        {
+          "size": 64,
+          "format": "png",
+          "url": "https://cdn.raulmoracode.com/icons/favicon.png"
         }
       ]
     }
